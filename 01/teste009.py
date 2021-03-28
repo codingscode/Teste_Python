@@ -10,7 +10,3 @@ comeco = 'começo'
 fim = 'fim'
 
 print(comeco + ' meio ' + fim)
-
-
-
-
