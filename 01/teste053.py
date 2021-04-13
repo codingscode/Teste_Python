@@ -33,6 +33,16 @@ finally:
 
 print('-------------------------')
 
+valor1 = -1
 
+#if valor1 < 0:
+#  raise Exception('Desculpa, sem números abaixo de zero')
+
+print('-------------------------')
+
+valor2 = 'olá'
+
+if not type(valor2) is int:
+  raise TypeError('Somente inteiros são permitidos')
 
 print('-------------------------')
