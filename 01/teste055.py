@@ -7,27 +7,3 @@ arquivo = pd.read_csv('https://raw.githubusercontent.com/codingscode/Teste_Pytho
 print(arquivo.head())
 
 print('---------------------')
-
-
-
-
-print('---------------------')
-
-
-
-
-print('---------------------')
-
-
-
-
-print('---------------------')
-
-
-
-print('---------------------')
-
-
-
-
-print('---------------------')
