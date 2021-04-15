@@ -1,0 +1,5 @@
+{
+    "nome": ["Paulo", "Ana", "Isabele", "Yossef", "Deborah", "Tsahi"],
+    "sexo": ["M", "F", "F", "M", "F", "M"],
+    "idade": [21, 29, 18, 12, 25, 8]
+}
