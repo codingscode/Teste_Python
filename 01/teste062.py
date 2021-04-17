@@ -33,47 +33,11 @@ coluna_idade
 dados5['idade'].fillna(coluna_idade, inplace = True)
 dados5
 
-
-
-""" 
-
-df = pd.read_csv('data.csv')
-
-x = df["Calories"].median()
-
-df["Calories"].fillna(x, inplace = True)
-
- """
-
 print('------------------')
 
-
-
-
-
-
-print('------------------')
-
-
-
-
-
+dados6 = pd.read_csv('https://raw.githubusercontent.com/codingscode/Teste_Python/master/dados.csv')
+coluna_saldo = dados6['saldo'].mode()[0]  # a moda
+dados6['saldo'].fillna(coluna_saldo, inplace = True)  # na coluna saldo valores vazios substitui-se pela 'moda'
+dados6
 
 print('------------------')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
