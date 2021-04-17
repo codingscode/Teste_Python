@@ -1,17 +1,18 @@
-nome,sobrenome,idade,uf
-paulo,lins,19,tocantins
-larissa,ambuquerque,15,pernambuco
-rodrigo,lima,23,minas gerais
-Luis,,14,maranhao
-Jefferson,,26,pará
-Alice,,19,sergipe
-Laura,,42,distrito federal
-celso,formiga,32,paraná
-karla,santos,16,espírito santos
-michael,anderson,10,piauí
-michele,berk,22,mato grosso
-Emme,pereira,28,rio grande do sul
-Julia,souza,,são paulo
-Roberto,,24,rio de janeiro
-Paola,Cristine,18,
-Vicente,,20,bahia
+nome,sobrenome,idade,uf,saldo
+paulo,lins,19,tocantins,31500
+larissa,ambuquerque,15,pernambuco,12000
+rodrigo,lima,23,,31500
+Luis,,,maranhao,
+Jefferson,,26,pará,40000
+Alice,,19,sergipe,3000
+Laura,,42,distrito federal,
+celso,formiga,32,paraná,53000
+karla,santos,16,espírito santos,21350
+michael,anderson,10,piauí,31500
+michele,berk,22,mato grosso,31500
+Emme,pereira,28,rio grande do sul,31500
+Julia,souza,,são paulo,31500
+Roberto,,24,rio de janeiro,
+Paola,Cristine,18,,18400
+Vicente,,20,bahia,31500
+Afonso,Silva,26,santa catarina,16800
