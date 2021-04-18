@@ -9,20 +9,7 @@ dados['data'] = pd.to_datetime(dados['data'])
 dados
 
 print('-------------------')
-dados.dropna(subset=['date'], inplace = True)
+dados.dropna(subset=['data'], inplace = True)  # tira as que não estam em formato de data
 dados
-
-
-
-print('-------------------')
-
-
-
-
-
-print('-------------------')
-
-
-
 
 print('-------------------')
